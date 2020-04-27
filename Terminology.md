@@ -1,4 +1,4 @@
-# MACHINE LEARNING AND DEEP LEARNING BASICS
+# Machine Learning Cheatsheet #1
 
-## Terminology
+
 
