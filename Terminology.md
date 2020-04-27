@@ -6,7 +6,7 @@
 A field of computer science where the computer is given data from the user to learn and recognize patterns to make predictions given user input. 
 
 #### Neural Networks
-A system found in the human brain, consisting of neurons that are connected to each other. This connection is known as a synapse.
+A computer system consisting of a set of neurons, called layers, that connect to other neurons, to model the function of the human brain. 
 
 #### Weights and Biases
 
@@ -18,11 +18,11 @@ The "amount of wrong" the neural network has while it trains on user-given data.
 
 #### Cost Function
 
-(can be referred to loss functions as well) A mathematical function to calculate the neural network's loss.
+(can be referred to loss functions as well) A mathematical function to calculate how well the neural network has trained given the data.
 
 #### Optimizer
 
-A function to decrease loss.
+A function to improve the performance of the neural network by adjusting parametters of the neural network. 
 
 #### Overfitting
 
